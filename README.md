@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem Koca</h1>
-<h3 align="center">Frontend & RPA Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 📫 How to reach me **admkca16@gmail.com**
 
