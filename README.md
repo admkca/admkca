@@ -1,6 +1,4 @@
-# 💫 About Me:
-Adem Koca
-Full-Stack Developer
+# 💫 About Me: Adem Koca a Full-Stack Developer
 
 
 # 💻 Tech Stack:
